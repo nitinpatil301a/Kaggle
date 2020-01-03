@@ -1,2 +1,2 @@
-# Kaggle_Titanic
-Work done on kaggle titanic dataset
+# Kaggle compitations
+Work done on kaggle compitations
